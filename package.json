@@ -1,0 +1,29 @@
+{
+  "name": "mattermost-slashcommands-manager-demo",
+  "version": "1.0.0",
+  "description": "Mattermost slashcommands manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernicPanel/mattermost-slashcommands-manager-demo.git"
+  },
+  "keywords": [
+    "mattermost",
+    "hapi",
+    "slashcommands",
+    "chatops",
+    "chatbot"
+  ],
+  "author": "kernicPanel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kernicPanel/mattermost-slashcommands-manager-demo/issues"
+  },
+  "homepage": "https://github.com/kernicPanel/mattermost-slashcommands-manager-demo#readme",
+  "dependencies": {
+    "hapi": "^13.0.0"
+  }
+}
